@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <plugin>
+        <name>插件A</name>
+        <jar>C:/Users/Kelly/Desktop/MyProject/plugin-parent/plugin-plugin/target/plugin-0.0.1-SNAPSHOT.jar</jar>
+        <className>com.example.plugin.plugin.impl.APlugin</className>
+    </plugin>
+    <plugin>
+        <name>插件B</name>
+        <jar>C:/Users/Kelly/Desktop/MyProject/plugin-test-b/target/pluginB-0.0.1-SNAPSHOT.jar</jar>
+        <className>com.example.plugin.pluginb.impl.PluginB</className>
+    </plugin>
+</plugins>
